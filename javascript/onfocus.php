@@ -1,0 +1,1 @@
+<input type="text" value="" onfocus="value='Tengo el focus';style.backgroundColor='yellow';" onblur="value='Perdi el focus';style.backgroundColor='#ddd';">
